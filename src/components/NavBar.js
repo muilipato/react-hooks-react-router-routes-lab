@@ -15,6 +15,7 @@ function NavBar() {
         activeStyle={{
           background: "darkblue",
         }}
+        >
         Home
       </NavLink>
       <NavLink
